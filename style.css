@@ -1,0 +1,56 @@
+body{
+	background: #c1e48f;
+	font-family: comic;
+}
+
+.Kalkulator{
+	width: 335px;
+	background: #6c90ab;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 20px 0px ;
+}
+
+.nilai{
+  text-align: center;
+	color: #eee;
+	font-weight: normal;
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.pilihan{
+  text-align: center;
+	font-size: 14pt;
+	font-weight: normal;
+	border: none;
+  width: 150px;
+	margin: 5px;
+  right : 100px;
+	border-radius: 5px;
+	padding: 10px;
+  font-family: comic;
+}
+
+.tombol{
+  font-family: comic;
+	background: #c1e48f;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	font-size: 15pt;
+	border-bottom:4px;
+}
+
+.header{
+	text-align: center;
+	color: #eee;
+	font-weight: normal;
+}
